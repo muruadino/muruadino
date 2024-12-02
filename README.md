@@ -5,6 +5,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with python
 - 💬 Ask me about qlik
-- 📫 How to reach me: here i guess
-- 😄 Pronouns: peepo
-- ⚡ Fun fact: i love cookies
+- 📫 How to reach me: here
+- ⚡ Fun fact: 
